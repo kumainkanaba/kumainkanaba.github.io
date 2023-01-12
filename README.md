@@ -1,4 +1,4 @@
-# https://kumainkanaba.github.io/kumainnaako/
+# kumainkanaba.github.io
 Mickaela Madriaga
 <h1 align="center">Hello World!</h1>
 
