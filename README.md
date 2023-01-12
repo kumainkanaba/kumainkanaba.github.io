@@ -15,5 +15,4 @@ Mickaela Madriaga
 <p>A <strong>TO</strong> Z</p>
 
 ---
-
-![fries](http://images.summitmedia-digital.com/yummyph/images/2020/04/23/kfc-easy-cook-frozen-snacks-01.jpg)
+![pics](![image](https://user-images.githubusercontent.com/122424253/211949120-d090e5ec-c1f3-4158-811c-463cc086ae40.png) "Fires")
