@@ -15,4 +15,4 @@ Mickaela Madriaga
 <p>A <strong>TO</strong> Z</p>
 
 ---
-![pics](![image](https://user-images.githubusercontent.com/122424253/211949120-d090e5ec-c1f3-4158-811c-463cc086ae40.png) "Fires")
+![pics](https://user-images.githubusercontent.com/122424253/211949120-d090e5ec-c1f3-4158-811c-463cc086ae40.png "Fires")
