@@ -1,4 +1,4 @@
-# kumainnaako
+# kumain na ako
 Mickaela Madriaga
 <h1 align="center">Hello World!</h1>
 
