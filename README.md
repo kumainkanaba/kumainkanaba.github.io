@@ -1,18 +1,28 @@
-# https://kumainkanaba.github.io
-Mickaela Madriaga
+# 🎬 Mickaela Madriaga 🥂
+
 <h1 align="center">Hello World!</h1>
 
-<p>Can I get your order?</p>
+**`bhoXc$ m4pa6mH4L bHente zIngK0`**
+
+<p>10 things kung bakit dapat mo ako pautangin</p>
 
 <ul>
-  <li>Mcdo</li>
-  <li>Jollibee</li>
-  <li>KFC</li>
+  <li>Hindi ako mangnanakaw</li>
+  <li>Wala na ako pera</li>
+  <li>Eheads pa rin</li>
+  <li>Kitkat & Ferrero Rocher connoisseur</li>
+  <li>Natutulog ng maaga</li>
+  <li>Hindi talaga ghoster</li>
+  <li>Nadadamay kahit walang ginagawa</li>
+  <li>24 personalities</li>
+  <li>Gagawin lahat para sa carbonara</li>
+  <li>Green flag</li>
+  <li>Jopay kamusta kana?</li>
 </ul>
 
 <hr>
 
-<p>Kumain kana ba? Here's some fries</p>
+<p>For more info, please call 911</p>
 
 ---
-![pics](https://user-images.githubusercontent.com/122424253/211949120-d090e5ec-c1f3-4158-811c-463cc086ae40.png "Fires")
+![pics](https://i.pinimg.com/564x/34/e5/2b/34e52b68c61061e4705f2dc4171cf140.jpg)
