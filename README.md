@@ -15,4 +15,3 @@ Mickaela Madriaga
 <p>A <strong>TO</strong> Z</p>
 
 ---
-[site](https://kumainkanaba.github.io)
