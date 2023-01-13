@@ -7,7 +7,7 @@
 <p>10 things kung bakit dapat mo ako pautangin</p>
 
 <ul>
-  <li>Hindi ako mangnanakaw</li>
+  <li>Hindi ako magnanakaw</li>
   <li>Wala na ako pera</li>
   <li>Eheads pa rin</li>
   <li>Kitkat & Ferrero Rocher connoisseur</li>
