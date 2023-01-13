@@ -1,6 +1,4 @@
-# 🎬 Mickaela Madriaga 🥂
-
-<h1 align="center">Hello World!</h1>
+<h1 align="center">Hello World! 🥂</h1>
 
 **`bhoXc$ m4pa6mH4L bHente zIngK0`**
 
