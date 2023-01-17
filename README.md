@@ -18,8 +18,6 @@
   <li>Jopay kamusta kana?</li>
 </ul>
 
-<p>For more info, message me nalang hehe</p>
-
 ---
 
 <h1 align="center">POV: nakita mo jeje playlist ko</h1>
