@@ -42,7 +42,7 @@
 
 <strong>Special mentions:<strong>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y388UkDxL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <iframe width="560" height="315" src="https://www.youtube.com/embed/fXrLhV1vvUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/29fFr79MAALWB6Dbj7w9JR?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y388UkDxL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/29fFr79MAALWB6Dbj7w9JR?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ---
 
